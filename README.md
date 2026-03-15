@@ -42,9 +42,6 @@ Reinforcement-Learning-for-LLM-Agentic-Reasoning/
 │   ├── train_phase3.py          # Phase 3: Custom GRPO implementation with LangGraph
 │   ├── agent.py                 # Phase 2: LangGraph ReAct Agent definitions
 │   └── evaluate.py              # Evaluator for GSM8K benchmarking
-├── results/                     # Metric plots and evaluation outputs
-│   ├── training_curves.png
-│   └── benchmark_results.png
 ├── app.py                       # Gradio demo application
 ├── requirements.txt             # Project dependencies
 └── README.md                    # Project documentation
