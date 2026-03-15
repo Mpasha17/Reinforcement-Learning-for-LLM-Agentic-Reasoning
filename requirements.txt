@@ -1,0 +1,10 @@
+unsloth
+trl
+datasets
+wandb
+langgraph
+langchain-core
+gradio
+transformers
+torch
+accelerate
